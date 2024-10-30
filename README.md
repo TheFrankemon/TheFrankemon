@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm a Web UI developer at Witco.io, I've been developing on web technologies since 2018, driven by a sense of elevating and perfectioning user interfaces 🎨.
+I'm a Frontend Web developer at Wolivin, I've been developing on web technologies since 2018, driven by a sense of elevating and perfectioning user interfaces 🎨.
 
 I created my own website ➡️ https://thefrankemon.dev, by using the tech I'm more skilled at: [Angular](https://angular.io), [Sass](https://sass-lang.com) and [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 
