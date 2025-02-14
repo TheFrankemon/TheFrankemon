@@ -2,7 +2,13 @@
 
 I'm a Frontend Web developer at Wolivin, I've been developing on web technologies since 2018, driven by a sense of elevating and perfectioning user interfaces 🎨.
 
-I created my own website ➡️ https://thefrankemon.dev, by using the tech I'm more skilled at: [Angular](https://angular.io), [Sass](https://sass-lang.com) and [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+My area of expertise resides on the use of TypeScript and CSS over multiple flavors:
+- [Angular](https://angular.io)
+- [React](https://react.dev)
+- [Sass](https://sass-lang.com)
+- [Tailwind CSS](https://tailwindcss.com)
+
+I created my own website ➡️ https://thefrankemon.dev using [Angular](https://angular.io), [Sass](https://sass-lang.com) and [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
 
 
 <!--
