@@ -6,6 +6,7 @@ My area of expertise resides on the use of TypeScript and CSS over multiple flav
 - [Angular](https://angular.io)
 - [React](https://react.dev)
 - [Sass](https://sass-lang.com)
+- [React Native](https://reactnative.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 
 I created my own website ➡️ https://thefrankemon.dev using [Angular](https://angular.io), [Sass](https://sass-lang.com) and [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
