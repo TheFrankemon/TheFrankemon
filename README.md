@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm a Frontend Web developer at Wolivin, I've been developing on web technologies since 2018, driven by a sense of elevating and perfectioning user interfaces 🎨.
+I'm a Frontend Web developer, I've been developing on web technologies since 2018, driven by a sense of elevating and perfectioning user interfaces 🎨.
 
 My area of expertise resides on the use of TypeScript and CSS over multiple flavors:
 - [Angular](https://angular.io)
